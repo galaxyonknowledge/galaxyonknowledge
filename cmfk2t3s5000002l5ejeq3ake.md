@@ -6,6 +6,7 @@ datePublished: Sun Sep 14 2025 19:16:25 GMT+0000 (Coordinated Universal Time)
 cuid: cmfk2t3s5000002l5ejeq3ake
 slug: what-is-ai-and-data-science
 canonical: https://galaxyonknowledge.blogspot.com/2025/09/what-is-difference-between-ml-ai-and-ds.html
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SARXNUw9ozg/upload/bc949c7e8ce801ded6d5e45eb489fdc6.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1757877758520/2ce9eb31-6131-41ff-8ebb-05bd3acd5850.jpeg
 tags: what-is-ai, what-is-data-science
 
@@ -13,7 +14,7 @@ tags: what-is-ai, what-is-data-science
 
 # AI vs Data Science: What's the Big Difference
 
-# AI and Data Science: The Twin Engines of a New Revolution
+## AI and Data Science: The Twin Engines of a New Revolution
 
 Have you ever stopped to wonder how your world has become so... intuitive? How does Netflix know you'll love that obscure documentary? How does your phone’s map app predict a traffic jam before you even see the brake lights? It feels like magic, but it’s not. It’s the result of two of the most transformative forces of our time working in beautiful harmony: Artificial Intelligence (AI) and Data Science.
 
