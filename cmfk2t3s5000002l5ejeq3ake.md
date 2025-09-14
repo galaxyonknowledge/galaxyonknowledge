@@ -6,6 +6,7 @@ datePublished: Sun Sep 14 2025 19:16:25 GMT+0000 (Coordinated Universal Time)
 cuid: cmfk2t3s5000002l5ejeq3ake
 slug: what-is-ai-and-data-science
 canonical: https://galaxyonknowledge.blogspot.com/2025/09/what-is-difference-between-ml-ai-and-ds.html
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1757877758520/2ce9eb31-6131-41ff-8ebb-05bd3acd5850.jpeg
 tags: what-is-ai, what-is-data-science
 
 ---
