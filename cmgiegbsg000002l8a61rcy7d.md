@@ -35,7 +35,7 @@ Photo by [Shantanu Kumar](https://www.pexels.com/@theshantanukr)
 
 ChatGPT is a smart tool from OpenAI that talks like a person using AI. You type a prompt, it predicts the next best words, then gives a clear reply. Think of it as a helpful assistant that writes, explains, and plans with you.
 
-If you wonder What is ChatGPT and How to use it or What exactly is ChatGPT used for, here is the short answer. It helps with everyday tasks such as drafting emails, checking grammar, outlining projects, and brainstorming ideas. It can explain hard topics in simple terms. It can even guide you through steps, like recipes or workouts. For context, What is the difference between AI and ChatGPT? AI is the broad field, while ChatGPT is a chat tool built with that tech. You can also explore How to Use ChatGPT in Whatsapp through trusted tools if supported in your region.
+If you wonder What is ChatGPT and How to use it or What exactly is ChatGPT used for, here is the short answer. It helps with everyday tasks such as drafting emails, checking grammar, outlining projects, and brainstorming ideas. It can explain hard topics in simple terms. It can even guide you through steps, like recipes or workouts. For context, [**What is the difference between AI and ChatGPT?**](https://galaxyonknowledge.substack.com/p/what-is-the-difference-between-ai) AI is the broad field, while ChatGPT is a chat tool built with that tech. You can also explore How to Use ChatGPT in Whatsapp through trusted tools if supported in your region.
 
 ### Signing Up on the ChatGPT Website
 
